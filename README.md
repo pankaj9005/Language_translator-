@@ -1,5 +1,8 @@
 # Language_translator
 
+In this language translation website we are use HTML,CSS ans Javascript.
+
+
 Before Translation : 
 ![Screenshot (84)](https://github.com/user-attachments/assets/e3e13b9c-f588-46b7-ac0f-ffaa428e9aeb)
 
